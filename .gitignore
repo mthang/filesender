@@ -1,0 +1,3 @@
+build/
+filesender.egg-info/
+filesender/__pycache__/

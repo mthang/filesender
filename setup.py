@@ -24,7 +24,7 @@ setup(
     long_description=open('README.rst').read(),
     install_requires=['requests',
                       'urllib3',
-                      'cryptographye'],
+                      'cryptography'],
     python_requires='>=3.6',
     classifiers=[
         "Intended Audience :: Science/Research",
